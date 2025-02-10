@@ -22,7 +22,7 @@ The project uses backward chaining in MeTTa to determine if the intern qualifies
 
 ## Example Output
 - If you qualify: `(become-staff)`
-- If you don't qualify: `(become-professional-coffee-taster)`
+- If you don't qualify: `(Rejected)`
 
 <!-- ## License -->
 <!-- This project is licensed under the MIT License. -->
