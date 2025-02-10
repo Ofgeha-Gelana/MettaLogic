@@ -24,5 +24,5 @@ The project uses backward chaining in MeTTa to determine if the intern qualifies
 - If you qualify: `(become-staff)`
 - If you don't qualify: `(become-professional-coffee-taster)`
 
-## License
-This project is licensed under the MIT License.
+<!-- ## License -->
+<!-- This project is licensed under the MIT License. -->
