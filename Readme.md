@@ -1,6 +1,6 @@
 # Forward Chainer
 
-A MeTTa-based project to evaluate iCog Labs interns and determine if they become staff members or professional coffee tasters.
+A MeTTa-based project to evaluate iCog Labs interns and determine if they become staff members or Rejected.
 
 ## Overview
 This project uses MeTTa (Meta Type Theory) to evaluate whether an intern at iCog Labs qualifies to become a staff member. The evaluation is based on the following rules:
