@@ -10,7 +10,7 @@ This project uses MeTTa (Meta Type Theory) to evaluate whether an intern at iCog
 - Attend 10 hours/week or 40 hours/month
 - Update your resume weekly
 
-If all requirements are met, the intern becomes a staff member. Otherwise, they become a professional coffee taster (just kidding!).
+If all requirements are met, the intern becomes a staff member. Otherwise, they become Rejected .
 
 ## How It Works
 The project uses backward chaining in MeTTa to determine if the intern qualifies. It checks the knowledge base (facts) and applies rules to derive the conclusion.
