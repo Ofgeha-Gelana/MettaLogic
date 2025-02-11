@@ -1,6 +1,6 @@
 # MeTTa Logic-based Inference Systems
 
-This repository demonstrates two educational projects built using **MeTTa Logic**, a framework for forward and backward chaining logic programming. These projects simulate real-world scenarios, employing logical inference to draw conclusions about football legends and the evaluation of interns.
+This repository demonstrates two educational projects built using **MeTTa Logic**, a framework for forward and backward chaining logic programming. These projects simulate real-world scenarios, employing logical inference to draw conclusions about football legends and the evaluation of interns at Icogs.
 
 ## Projects Overview
 
@@ -61,11 +61,6 @@ This project models the **internship evaluation process** at **iCog Labs**. Inte
 ### Queries and Evaluation
 - Once the facts and rules are set up, the system is queried to check if a player is a **GOAT** or if an intern qualifies for **staff or member** evaluation.
 - The system then draws conclusions, such as "Messi is legendary" or "Intern is rejected."
-
-## Installation
-
-### Prerequisites
-To run this project, you need to install the **MeTTa framework** for logic programming. Please follow the installation instructions on the [MeTTa GitHub page](https://github.com/MeTTa) to get started.
 
 ### Setup Instructions
 
